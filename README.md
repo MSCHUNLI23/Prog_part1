@@ -57,4 +57,4 @@ The full API endpoint plan covering all routes, methods, roles, request bodies a
 ![CI/CD Build](docs/ci-screenshot.png)
 
 ## Video Presentation
-[RaceDay System Walkthrough](YOUR_YOUTUBE_LINK_HERE)
+[RaceDay System Walkthrough](https://youtube.com/shorts/ldmY9jQa_Vc)
